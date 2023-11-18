@@ -13,4 +13,8 @@
       <img style="display:inline-block;" height="60px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWlhZWFtc25zZDdhbWRvemdvOXBxYnc4YzVxOG90MTBkaGZjZzF5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif"/>
   <!Git–>
         <img style="display:inline-block;" height="60px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3g3bGZlYjczbHBqZzU3MXNuNmVnd3RlemE2ZXF0dW5vcGMwNTBjaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kH6CqYiquZawmU1HI6/giphy.gif"/>
+    <!Git–>
+        <img style="display:inline-block;" height="60px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3g3bGZlYjczbHBqZzU3MXNuNmVnd3RlemE2ZXF0dW5vcGMwNTBjaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kH6CqYiquZawmU1HI6/giphy.gif"/>
+    <!Docker–>
+        <img style="display:inline-block;" height="60px" src="https://blog.dsbrigade.com/content/images/2020/10/f55e8059ea945abfd6804b887dd4a0af.gif"/>
 </div>
